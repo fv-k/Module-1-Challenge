@@ -1,6 +1,4 @@
-# Module-1-Challenge
-
-Umbrel
+# Umbrel
 
 
 ## Overview and Origin
@@ -59,7 +57,7 @@ If Bitcoin sees more mass adoption, I would think that would be the best way to 
 
 Marketing “privacy” is an interesting topic. It almost seems taboo, like you must be doing something wrong if you want to hide it. Pictures, like Bitcoin, seem like a fairly politically neutral way to approach people seeking privacy. Umbrel does market this near the top of their website, along with Nextcloud (Google Drive replacement) for people wishing to keep their documents, contacts, etc. out of corporate servers. 
 
-If I were to offer a recommendation, I would also market disaster-proof back-up machines, like a Time Machine, if information will no longer be stored on a Cloud.
+If I were to offer a recommendation, I would also market disaster-proof back-up machines, like a Time Machine, if information will no longer be stored on a Cloud. It's interesting to think as apps are added to the interface, it could completely replace the currently used systems. 
 
 I’m not sure how the company plans to make money in the future, but selling hardware like The Bitcoin Machine, and back up systems, could be profitable.
 
